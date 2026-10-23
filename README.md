@@ -1,2 +1,2 @@
 # Webdev
-A catalogue wed development projects
+A catalogue of web development projects
