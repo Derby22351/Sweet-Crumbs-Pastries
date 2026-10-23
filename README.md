@@ -61,7 +61,6 @@ This project can be hosted for free using GitHub Pages.
 - Practice semantic HTML and CSS styling.
 - Build a responsive layout for desktop and mobile screens.
 - Create a consistent visual identity for a bakery brand.
-- Explore interactive website elements using JavaScript.
 - Prepare a polished project for my web development portfolio.
 
 👩‍💻 Author
